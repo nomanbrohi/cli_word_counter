@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 // import inquirer to import inquirer functions like inquirer.prompt
 import inquirer from "inquirer";
 // create a variable for question with await async function

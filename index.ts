@@ -1,5 +1,4 @@
-#! \usr\bin\env node
-
+#! /usr/bin/env node
 // import inquirer to import inquirer functions like inquirer.prompt
 import inquirer from "inquirer"
 
